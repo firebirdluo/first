@@ -2,13 +2,13 @@
     "name": "firebirdluo/first",
     "description": "this is first",
     "type": "library",
-    "license": "MIT",
     "authors": [
         {
             "name": "firebirdluo",
             "email": "470736911@qq.com"
         }
     ],
+	"license": "MIT",
 	"minimum-stability": "dev",
     "require": {}
 }
