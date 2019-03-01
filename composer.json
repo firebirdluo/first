@@ -1,0 +1,13 @@
+{
+    "name": "firebirdluo/first",
+    "description": "this is first",
+    "type": "project",
+    "license": "1.0.0",
+    "authors": [
+        {
+            "name": "firebirdluo",
+            "email": "470736911@qq.com"
+        }
+    ],
+    "require": {}
+}
