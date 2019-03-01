@@ -9,7 +9,6 @@
         }
     ],
 	"license": "MIT",
-	"version": "1.0.2",
 	"minimum-stability": "stable",
     "require": {}
 }
