@@ -1,7 +1,7 @@
 {
     "name": "firebirdluo/first",
     "description": "this is first",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
@@ -9,5 +9,6 @@
             "email": "470736911@qq.com"
         }
     ],
+	"minimum-stability": "dev",
     "require": {}
 }
