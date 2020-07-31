@@ -11,8 +11,8 @@
 	"license": "MIT",
     "require": {},
 	"autoload": {
-    "psr-4": {
-      "First\\": "src/First"
-    }
-  }
+		"psr-4": {
+		  "First\\": "src/First"
+		}
+	}
 }
