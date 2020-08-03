@@ -23,7 +23,7 @@ namespace First;
 class Log
 {
 	public function log(){
-		echo 'log v1.2.0....';
+		return 'log v1.2.1....';
 	}
 
 }
