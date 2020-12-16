@@ -6,3 +6,4 @@ echo 'demo_02';
 echo 'demo_03';
 echo 'demo_04';
 echo 'demo_05';
+echo 'demo_06';
